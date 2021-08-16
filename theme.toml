@@ -14,3 +14,7 @@ min_version = "0.64.0"
 [original]
   name = "kross"
   homepage = "https://themefisher.com/products/kross-creative-portfolio-template/"
+
+[module]
+  [[module.imports]]
+    path = "kross-hugo"
