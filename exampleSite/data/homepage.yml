@@ -3,17 +3,20 @@ banner:
   title: Car and Loan <br> Quick and Easy
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: 👉 auto na kredit-brzo I jednostavno ❗️❗️
+👉uz jedan dolazak do novoga automobila, bez obzira otkud iz njemačke se javljate moguća je online provjera prolaznosti kredita❗️
+👉eu-viza 
+👉minimalni uvjeti
+👉-moguće financiranje, bez učešća I završne rate,bez stalnoga ugovora
+👉garancija-tüv-de auta-servisna knjiga-na svim automobilima napravljen mali servis I spreman za jedan servisni interval ❗️
+👉jamčimo visoku profesionalnost I stručnost
+👉dodaj gas I nazovi nas ❗️❗️
   button:
     enable: true
     label: know more
     URL: about
 skill:
-  enable: true
+  enable: false
   title: Skills
   item:
   - title: Web Design
@@ -29,7 +32,7 @@ skill:
     progress: 70%
     color: "#ffbcaa"
 experience:
-  enable: true
+  enable: false
   title: Experience
   item:
   - logo: images/experience/icon-1.png
@@ -45,7 +48,7 @@ experience:
     company: THEMEFISHER
     duration: Sep 2014 - Present
 education:
-  enable: true
+  enable: false
   title: Education
   item:
   - title: Marters in UX Design
@@ -64,17 +67,17 @@ service:
   enable: true
   title: Services
   item:
-  - title: UI Design
+  - title: Car Purchase
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: false
-  - title: UX Design
+  - title: Car Loan
     icon: ti-vector
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: true
-  - title: Interaction Design
+  - title: Insurance
     icon: ti-panel
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
@@ -82,7 +85,7 @@ service:
 portfolio:
   enable: true
   title: Portfolio
-  item_show: "5"
+  item_show: "6"
 testimonial:
   enable: true
   title: Testimonials
@@ -112,7 +115,7 @@ testimonial:
       consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
       esse cillum dolore eu fugiat nulla pariatur.
 clients_logo_slider:
-  enable: true
+  enable: false
   item:
   - logo: images/clients-logo/client-logo-1.png
     URL: http://examplesite.com

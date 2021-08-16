@@ -51,7 +51,7 @@ weight = 4
 
 # default parameters
 [params]
-home = "Home"
+home = "Main"
 logo = ""
 # theme color
 theme_color = "#41228e"
