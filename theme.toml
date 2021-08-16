@@ -17,6 +17,6 @@ min_version = "0.64.0"
 
 [module]
   [[module.imports]]
-    path = "https://github.com/themefisher/kross-hugo"
+    repo = "https://github.com/themefisher/kross-hugo"
   [[module.imports]]
     path = "kross-hugo"
